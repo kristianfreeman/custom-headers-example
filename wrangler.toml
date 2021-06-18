@@ -1,0 +1,7 @@
+name = "custom-headers-example"
+type = "javascript"
+
+account_id = "FILL-IN-YOUR-ACCOUNT-ID"
+workers_dev = false
+route = "FILL-IN-YOUR-WEBSITE.com/*"
+zone_id = "FILL-IN-YOUR-ZONE-ID"
