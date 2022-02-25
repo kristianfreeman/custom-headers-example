@@ -2,7 +2,7 @@
 
 A template for customizing HTTP response headers using Cloudflare Workers.
 
-[`index.js`](https://github.com/cloudflare/custom-headers-example/blob/master/index.js) is the content of the Workers script.
+[`index.js`](index.js) is the content of the Workers script.
 
 ## Getting Started
 
